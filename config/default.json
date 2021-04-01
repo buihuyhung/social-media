@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://huyhung:huyhung275@devconnector.ay1ld.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "hudslajflkasdhjklfawghjjksdajfsdklfklsdjfklsdjfklasdjfklsdjfklsdhfklsdhgj",
+  "githubClientId": "3fa5785672ed47191de4",
+  "githubSecret": "36097d53c5b3b63d9dbc15a77e31ba035a99fb39"
+}
